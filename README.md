@@ -28,11 +28,11 @@ My work mainly revolves around building practical AI systems using LLMs, LangGra
 
 Alongside AI, I am also actively working on autonomous UAV systems involving Pixhawk, ArduPilot, mission planning, telemetry workflows, and intelligent drone-based automation.
 
-- 🔭 Currently building Agentic AI systems and Autonomous UAV solutions
-- 🌱 Exploring advanced RAG pipelines, AI orchestration, and drone autonomy
-- ⚡ Interested in AI infrastructure, intelligent agents, computer vision, and robotics
-- 🛠️ Building production-ready backend systems using FastAPI, Docker, and vector databases
-- 🚁 Working on autonomous drone workflows using Pixhawk and ArduPilot ecosystems
+-  Currently building Agentic AI systems and Autonomous UAV solutions
+-  Exploring advanced RAG pipelines, AI orchestration, and drone autonomy
+-  Interested in AI infrastructure, intelligent agents, computer vision, and robotics
+-  Building production-ready backend systems using FastAPI, Docker, and vector databases
+-  Working on autonomous drone workflows using Pixhawk and ArduPilot ecosystems
 
 ---
 
@@ -98,11 +98,11 @@ Alongside AI, I am also actively working on autonomous UAV systems involving Pix
 Built a multilingual healthcare chatbot for rural India using LangGraph-based agent orchestration.
 
 ### Key Features
-- 🌐 Multilingual support across Hindi, Tamil, Urdu, and English
-- 🧠 Supervisor-agent architecture using LangGraph
-- 🔍 RAG-powered contextual retrieval
-- 🩺 MCP tools for symptom checking, nutrition guidance, exercise planning, and mental health support
-- ⚡ Intelligent workflow routing based on user intent
+-  Multilingual support across Hindi, Tamil, Urdu, and English
+-  Supervisor-agent architecture using LangGraph
+-  RAG-powered contextual retrieval
+-  MCP tools for symptom checking, nutrition guidance, exercise planning, and mental health support
+-  Intelligent workflow routing based on user intent
 
 ---
 
