@@ -10,8 +10,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devaanshmakhijani&color=0E75B6&style=flat)
 
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white](https://in.linkedin.com/in/devaansh-makhijani-a923a6285?original_referer=https%3A%2F%2Fwww.google.com%2F)" alt="LinkedIn"></a>
+<a href="YOUR_GITHUB_LINK"><img src="https://github.com/Devaansh2610" alt="GitHub"></a>
 <a href="mailto:devaanshmakhijani@gmail.com"><img src="https://img.shields.io/badge/Email-devaanshmakhijani%40gmail.com-red" alt="Email"></a>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+%7C+LLM+Applications;LangChain+%7C+LangGraph+%7C+MCP+Servers;Autonomous+UAVs+%7C+Drone+Systems+%7C+Mission+Planning;FastAPI+%7C+Docker+%7C+Vector+Databases;Building+AI+Systems+That+Solve+Real+Problems)
@@ -195,8 +195,8 @@ Currently developing an autonomous UAV platform using Pixhawk and ArduPilot ecos
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white](https://in.linkedin.com/in/devaansh-makhijani-a923a6285?original_referer=https%3A%2F%2Fwww.google.com%2F)" alt="LinkedIn"></a>
+<a href="YOUR_GITHUB_LINK"><img src="https://github.com/Devaansh2610" alt="GitHub"></a>
 <a href="mailto:devaanshmakhijani@gmail.com"><img src="https://img.shields.io/badge/Email-devaanshmakhijani%40gmail.com-red" alt="Email"></a>
 
 </div>
