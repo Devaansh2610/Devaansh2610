@@ -4,7 +4,7 @@
 
 # Hi, I am Devaansh Makhijani 👋
 
-### Agentic AI | Computer Vision | Autonomous UAVs
+### Gen AI | Agentic systems | Autonomous UAVs
 
 🚀 Building intelligent AI systems, multilingual agents, RAG pipelines, and autonomous drone solutions.
 
@@ -195,7 +195,7 @@ Currently developing an autonomous UAV platform using Pixhawk and ArduPilot ecos
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/abhijatchaturvedi](https://in.linkedin.com/in/devaansh-makhijani-a923a6285?original_referer=https%3A%2F%2Fwww.google.com%2F)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://in.linkedin.com/in/devaansh-makhijani-a923a6285?original_referer=https%3A%2F%2Fwww.google.com%2F"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Devaansh2610"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:devaanshmakhijani@gmail.com"><img src="https://img.shields.io/badge/Email-devaanshmakhijani%40gmail.com-red" alt="Email"></a>
 
@@ -206,13 +206,5 @@ Currently developing an autonomous UAV platform using Pixhawk and ArduPilot ecos
 <div align="center">
 
 ### 🔬 Building practical AI systems with real-world impact.
-
-</div>
-
----
-
-<div align="center">
-
-**🔬 Research-minded. 🧩 Product-aware. 🤝 Human about the work.**
 
 </div>
