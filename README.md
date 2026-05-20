@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devaanshmakhijani&color=0E75B6&style=flat)
 
-<a href="(https://in.linkedin.com/in/devaansh-makhijani-a923a6285?original_referer=https%3A%2F%2Fwww.google.com%2F)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://in.linkedin.com/in/devaansh-makhijani-a923a6285?original_referer=https%3A%2F%2Fwww.google.com%2F"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Devaansh2610"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:devaanshmakhijani@gmail.com"><img src="https://img.shields.io/badge/Email-devaanshmakhijani%40gmail.com-red" alt="Email"></a>
 
