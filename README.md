@@ -1,82 +1,185 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:075E63,100:B8592D&text=Abhijat%20Chaturvedi&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Senior%20AI%20Lead%20%7C%20Applied%20AI%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Devaansh%20Makhijani&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20Developer%20%7C%20Autonomous%20UAV%20Builder&descAlign=50&descAlignY=60&animation=fadeIn)
 
-# Hi, I am Abhijat Chaturvedi 👋
+# Hi, I am Devaansh Makhijani 👋
 
-### 🧠 Senior AI Lead | 🔬 Applied AI Scientist | 🤖 Machine Learning Engineer
+### Agentic AI | Computer Vision | Autonomous UAVs
 
-🚀 I build practical AI systems that move from research ideas to real products.
+🚀 Building intelligent AI systems, multilingual agents, RAG pipelines, and autonomous drone solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhijatchaturvedi&color=0E75B6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=devaanshmakhijani&color=0E75B6&style=flat)
 
-<a href="https://www.linkedin.com/in/abhijatchaturvedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/abhijatchaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://abhijatchaturvedi.github.io"><img src="https://img.shields.io/badge/Website-24292F?logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://scholar.google.com/citations?user=K-EL0PQAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://abhijatchaturvedi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-<a href="mailto:abhijatchaturvedi@gmail.com"><img src="https://img.shields.io/badge/Email-abhijatchaturvedi%40gmail.com-red" alt="Email"></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:devaanshmakhijani@gmail.com"><img src="https://img.shields.io/badge/Email-devaanshmakhijani%40gmail.com-red" alt="Email"></a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=075E63&center=true&vCenter=true&width=850&lines=Generative+AI+%7C+RAG+%7C+LLM+Agents;Computer+Vision+%7C+Image+Intelligence;Vector+Search+%7C+AI+Systems+%7C+ML+Platforms;Research-minded.+Product-aware.+Delivery-focused.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+%7C+LLM+Applications;LangChain+%7C+LangGraph+%7C+MCP+Servers;Autonomous+UAVs+%7C+Drone+Systems+%7C+Mission+Planning;FastAPI+%7C+Docker+%7C+Vector+Databases;Building+AI+Systems+That+Solve+Real+Problems)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I work as a senior AI lead and applied machine learning scientist with 7+ years of experience across Generative AI, RAG, LLM agents, computer vision, healthcare intelligence, and applied ML systems.
+I am a Computer Science undergraduate at Manipal University Jaipur with a strong focus on AI engineering, agentic systems, autonomous technologies, and real-world ML applications.
 
-I enjoy the space where research and engineering meet: taking a promising idea, testing it honestly, and shaping it into something reliable enough for real users.
+My work mainly revolves around building practical AI systems using LLMs, LangGraph workflows, Retrieval-Augmented Generation (RAG), vector databases, and MCP-based architectures. I enjoy combining research-oriented ideas with production-ready engineering.
 
-- 🔭 Currently working on AI chat systems, knowledge assistants, RAG pipelines, vector search, multimodal workflows, and agent-based systems.
-- 🌱 Interested in reliable LLM applications, practical computer vision, AI product engineering, and healthcare AI.
-- 🛠️ Previously worked on image enhancement, super resolution, image harmonization, recommendation systems, government chatbots, and pandemic dashboards.
-- ✍️ I also write literature on Medium as a personal hobby.
+Alongside AI, I am also actively working on autonomous UAV systems involving Pixhawk, ArduPilot, mission planning, telemetry workflows, and intelligent drone-based automation.
+
+- 🔭 Currently building Agentic AI systems and Autonomous UAV solutions
+- 🌱 Exploring advanced RAG pipelines, AI orchestration, and drone autonomy
+- ⚡ Interested in AI infrastructure, intelligent agents, computer vision, and robotics
+- 🛠️ Building production-ready backend systems using FastAPI, Docker, and vector databases
+- 🚁 Working on autonomous drone workflows using Pixhawk and ArduPilot ecosystems
 
 ---
 
-## 🧭 Areas I Work In
+# 🧭 Areas I Work In
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-075E63?style=for-the-badge" alt="RAG Systems" />
-  <img src="https://img.shields.io/badge/LLM%20Agents-17202A?style=for-the-badge" alt="LLM Agents" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-B8592D?style=for-the-badge" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-075E63?style=for-the-badge" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/LangGraph%20Systems-17202A?style=for-the-badge" alt="LangGraph Systems" />
+  <img src="https://img.shields.io/badge/MCP%20Servers-B8592D?style=for-the-badge" alt="MCP Servers" />
   <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Autonomous%20UAVs-2563EB?style=for-the-badge" alt="Autonomous UAVs" />
   <img src="https://img.shields.io/badge/AI%20Infrastructure-334155?style=for-the-badge" alt="AI Infrastructure" />
-  <img src="https://img.shields.io/badge/Healthcare%20AI-2563EB?style=for-the-badge" alt="Healthcare AI" />
 </p>
 
 ---
 
-## 🧠 My Tech Stack
+# 🧠 Tech Stack
 
-### 🧩 Core Languages
+## 🧩 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Core languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,bash" alt="Languages" />
 </p>
 
 ---
 
-### ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks & Libraries
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow,opencv,sklearn" alt="Frameworks and libraries" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" alt="Frameworks" />
   <br />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Pillow-3776AB?logo=python&logoColor=white" alt="Pillow" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+  <br />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastMCP-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🗄️ Databases & Tools
+## ☁️ Cloud, Databases & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,aws,docker,git,github,linux,windows" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud and Tools" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AstraDB-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20ADK-0F9D58?style=for-the-badge" />
 </p>
 
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Multilingual Healthcare Agentic Chatbot
+
+Built a multilingual healthcare chatbot for rural India using LangGraph-based agent orchestration.
+
+### Key Features
+- 🌐 Multilingual support across Hindi, Tamil, Urdu, and English
+- 🧠 Supervisor-agent architecture using LangGraph
+- 🔍 RAG-powered contextual retrieval
+- 🩺 MCP tools for symptom checking, nutrition guidance, exercise planning, and mental health support
+- ⚡ Intelligent workflow routing based on user intent
+
+---
+
+## 📚 RAG API & Vector Retrieval System
+
+Developed a complete Retrieval-Augmented Generation backend with vector search capabilities.
+
+### Tech Used
+- FastAPI
+- Qdrant
+- Docker
+- MinIO
+- Embedding pipelines
+
+### Features
+- Automated document ingestion
+- Semantic chunking and embedding generation
+- Vector similarity retrieval
+- Production-ready Docker deployment
+- Integrated as an MCP tool for AI agents
+
+---
+
+## ⚽ Custom MCP Football Data Server
+
+Built a secure FastMCP-based microservice enabling LLM agents to retrieve football statistics and structured data through natural language workflows.
+
+### Highlights
+- Secure dual-key authentication system
+- Dockerized deployment
+- Modular tool architecture
+- Optimized for AI agent interaction
+
+---
+
+## 🚁 Autonomous UAV System
+
+Currently developing an autonomous UAV platform using Pixhawk and ArduPilot ecosystems.
+
+### Focus Areas
+- Autonomous waypoint navigation
+- Mission planning workflows
+- UAV telemetry systems
+- Companion-computer communication
+- AI-assisted drone automation
+- Intelligent payload and control systems
+
+---
+
+# 💼 Experience
+
+## 🏢 AI Intern — WittyBrains  
+📅 June 2025 – August 2025
+
+- Worked on Agentic AI systems and RAG pipelines
+- Built intelligent workflows using LangChain, LangGraph, and MCP Servers
+- Engineered backend systems with FastAPI and Docker
+- Improved structured orchestration and contextual AI responses
+
+---
+
+## 🏢 Summer Intern — LetsAI  
+📅 June 2024 – August 2024
+
+- Implemented data optimization pipelines using Pandas and NumPy
+- Automated business analytics workflows
+- Improved operational efficiency through real-time AI-driven solutions
+
+---
+
+# 📜 Certifications
+
+- AWS Academy Cloud Foundations
+- AWS Cloud Security Foundations
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Red Hat Certification in Operating Systems
+- Oracle Academy OOP Certification
 
 ---
 
@@ -86,16 +189,23 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 ---
 
-## 📞 Connect
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhijatchaturvedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/abhijatchaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://abhijatchaturvedi.github.io"><img src="https://img.shields.io/badge/Website-24292F?logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://scholar.google.com/citations?user=K-EL0PQAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://abhijatchaturvedi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-<a href="mailto:abhijatchaturvedi@gmail.com"><img src="https://img.shields.io/badge/Email-abhijatchaturvedi%40gmail.com-red" alt="Email"></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:devaanshmakhijani@gmail.com"><img src="https://img.shields.io/badge/Email-devaanshmakhijani%40gmail.com-red" alt="Email"></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔬 Building practical AI systems with real-world impact.
 
 </div>
 
